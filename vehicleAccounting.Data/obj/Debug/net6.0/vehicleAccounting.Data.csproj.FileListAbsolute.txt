@@ -1,0 +1,12 @@
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\bin\Debug\net6.0\vehicleAccounting.Data.deps.json
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\bin\Debug\net6.0\vehicleAccounting.Data.dll
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\bin\Debug\net6.0\vehicleAccounting.Data.pdb
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.csproj.AssemblyReference.cache
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.AssemblyInfoInputs.cache
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.AssemblyInfo.cs
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.csproj.CoreCompileInputs.cache
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.dll
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\refint\vehicleAccounting.Data.dll
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\vehicleAccounting.Data.pdb
+C:\Users\basta\source\repos\UnitessVehicleAccounting\vehicleAccounting.Data\obj\Debug\net6.0\ref\vehicleAccounting.Data.dll

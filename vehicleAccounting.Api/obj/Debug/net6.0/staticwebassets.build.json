@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ox90YH+gO819v//CCrVX6JUS7vNS5PdIIQAfNYnusUc=",
+  "Source": "vehicleAccounting.Api",
+  "BasePath": "_content/vehicleAccounting.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
